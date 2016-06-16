@@ -1,2 +1,2 @@
 # hello-world
-first time
+first of all, nice to meet all of you! I like to program so much. My focus is on Java and php, but i known other languages...
